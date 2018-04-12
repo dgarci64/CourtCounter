@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CourtCounter</string>
+    <string name="title_team_a">Team A</string>
+    <string name="touchdown_teamA">Touchdown : +6</string>
+    <string name="field_goal_TeamA">Field Goal : +3</string>
+    <string name="safety_TeamA">Safety : +2</string>
+    <string name="two_point_conversion_TeamA">Two Point Conversion : +2</string>
+    <string name="extra_point_teamA">Extra Point : +1</string>
+    <string name="team_b_title">Team B</string>
+    <string name="score_teamB">0</string>
+    <string name="touchdown_teamB">Touchdown : +6</string>
+    <string name="field_goal_teamB">Field Goal : +3</string>
+    <string name="safety_teamB">Safety : +2</string>
+    <string name="two_point_conversion_teamB">Two Point Conversion : +2</string>
+    <string name="extra_point_teamB">Extra Point : +1</string>
+    <string name="reset_text">Reset</string>
+    <string name="teamA_score">0</string>
+</resources>
